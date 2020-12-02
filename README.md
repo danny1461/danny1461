@@ -13,4 +13,4 @@ This is where I store my latest experiments and opensource projects
 
 **My projects so far have been composed primarily of:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny1461&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny1461&layout=compact&hide_border=true&hide_title=true)
